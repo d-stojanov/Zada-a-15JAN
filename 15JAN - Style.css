@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 1%;    
+}
+
+th {
+    border: 1px solid black;
+}
+
+tr {
+    height: 1cm;
+}
+
+tr:nth-child(odd) {
+    background-color: lightgray;
+}
+
+td {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "first_name": "Ivan",
+        "last_name": "Horvat",
+        "age": 36,
+        "email": "ivan.horvat@mail.com",
+        "phone": 38591222333
+    },
+    {
+        "first_name": "Ana",
+        "last_name": "Mi\u0161ak",
+        "age": 25,
+        "email": "ana.misak@mail.com",
+        "phone": 38592333444
+    },
+    {
+        "first_name": "Kristina",
+        "last_name": "Kristi\u0107",
+        "age": 31,
+        "email": "kristina.kristic@mail.com",
+        "phone": 38598444555
+    },
+    {
+        "first_name": "Mirko",
+        "last_name": "Mirki\u0107",
+        "age": 45,
+        "email": "mirko.mirkic@mail.com",
+        "phone": 38599555666
+    },
+    {
+        "first_name": "Davor",
+        "last_name": "Horvat",
+        "age": 21,
+        "email": "davor_horvat@mail.com",
+        "phone": 38593445778
+    }
+]
